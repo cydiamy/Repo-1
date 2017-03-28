@@ -85,6 +85,23 @@ Description: Adds a beautiful blurred effect to your messages app and more, lett
 Author: AppleBetas
 Name: TranslucentMessages
 
+Package: applebetas.ios.tweak.watchreboot
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.watchreboot/
+Version: 1.0.0-38
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.watchreboot_1.0.0-38_iphoneos-arm.deb
+Size: 7754
+MD5sum: eaf5531e2b485093759d9750e37a0315
+SHA1: 6c8e0272e640b6069f6080fb83144b07689aea8f
+SHA256: 2c7206c473f09ae4bee91d3374ea2f2b217e8b2e8f58c3058b13388928a62cb1
+Section: Tweaks
+Description: Quickly reboot or ping your Apple Watch from the watch app.
+Author: AppleBetas
+Name: WatchReboot
+
 Package: pw.virulent.execubokeh
 Depiction: https://repo.applebetas.tk/depiction/pw.virulent.execubokeh/
 Version: 1.1~tim-cook
