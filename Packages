@@ -15,6 +15,23 @@ Description: Give the iOS 10 Control Center a much more blurry and translucent l
 Author: AppleBetas
 Name: BlurryCC10
 
+Package: applebetas.ios.tweak.classicbanners
+Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.classicbanners/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.classicbanners_1.0_iphoneos-arm.deb
+Size: 8526
+MD5sum: 43442ff25836bac9e125d19a15d5545d
+SHA1: ee28432468e7695a7b69e56618fa22a41bacb037
+SHA256: 5e80e9dee3d5e80f8cb7d199cf7485bd32ece994707406a9e2476b61f3ad0a3c
+Section: Tweaks
+Description: Restore the old iOS 9 banner look.
+Author: AppleBetas
+Name: ClassicBanners
+
 Package: applebetas.ios.tweak.cleannotifications10
 Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.cleannotifications10/
 Version: 1.0.1-1
