@@ -23,10 +23,10 @@ Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: deb/applebetas.ios.tweak.classicbanners_1.0.3_iphoneos-arm.deb
-Size: 10330
-MD5sum: 41c9bc0b38bd92efb187522e8ccc1be9
-SHA1: 8a1bbfe7a863ab09a952876062a76febbb731c62
-SHA256: 8fc4ad0150e02c5ccd80f07223d2f1e4a0582cb91275a5ef1a3286f379a75bd1
+Size: 10306
+MD5sum: 7b8f539ddf20cb6e3d561ca6c1f02580
+SHA1: 8a8644d088d3003b737d6e5b0b8d2de538e4ded7
+SHA256: 3f4435dc6c1d8f5736a719e0ff3f788bb7b7fd10edb2f4a4e8c8960cd85fe6fb
 Section: Tweaks
 Description: Restore the old iOS 9 banner look.
 Author: AppleBetas
