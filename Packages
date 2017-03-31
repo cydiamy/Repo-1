@@ -17,16 +17,16 @@ Name: BlurryCC10
 
 Package: applebetas.ios.tweak.classicbanners
 Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.classicbanners/
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.classicbanners_1.0.2_iphoneos-arm.deb
-Size: 9002
-MD5sum: b6984dc2cff8dbc278f47f8c78cb46a9
-SHA1: 002e09b201c2c19087749a1c751847bc3e9b12f2
-SHA256: 19091b809c24de18a225be468a69f674eaae6a1a92842eb75c5068a108ec54cf
+Filename: deb/applebetas.ios.tweak.classicbanners_1.0.3_iphoneos-arm.deb
+Size: 10332
+MD5sum: 736668008fa130d62191bf28e776f820
+SHA1: 964899a92a56320e940bf82c40fce11bd66fd3b1
+SHA256: 28f4c8ba9c0d665adbf95a355c26b9bde870ed94f1e6a024ce4899c04f536b80
 Section: Tweaks
 Description: Restore the old iOS 9 banner look.
 Author: AppleBetas
