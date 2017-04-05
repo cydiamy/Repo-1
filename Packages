@@ -1,5 +1,5 @@
 Package: applebetas.ios.tweak.blurrycc10
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.blurrycc10/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.blurrycc10/
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -16,7 +16,7 @@ Author: AppleBetas
 Name: BlurryCC10
 
 Package: applebetas.ios.tweak.classicbanners
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.classicbanners/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.classicbanners/
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -33,7 +33,7 @@ Author: AppleBetas
 Name: ClassicBanners
 
 Package: applebetas.ios.tweak.cleannotifications10
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.cleannotifications10/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.cleannotifications10/
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -50,8 +50,8 @@ Author: AppleBetas
 Name: CleanNotifications10
 
 Package: applebetas.ios.tweak.countdown
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.countdown/
-Icon: https://repo.applebetas.tk/package-data/applebetas.ios.tweak.countdown/icon.png
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.countdown/
+Icon: https://repo.applebetas.co/package-data/applebetas.ios.tweak.countdown/icon.png
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -68,7 +68,7 @@ Author: AppleBetas
 Name: Countdown
 
 Package: applebetas.ios.tweak.notitinter
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.notitinter/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.notitinter/
 Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -85,7 +85,7 @@ Author: AppleBetas
 Name: NotiTinter
 
 Package: applebetas.ios.tweak.specialfaces
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.specialfaces/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.specialfaces/
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -102,8 +102,8 @@ Author: AppleBetas
 Name: SpecialFaces
 
 Package: applebetas.ios.tweak.translucentmessages
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.translucentmessages/
-Icon: https://repo.applebetas.tk/package-data/applebetas.ios.tweak.translucentmessages/icon.png
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.translucentmessages/
+Icon: https://repo.applebetas.co/package-data/applebetas.ios.tweak.translucentmessages/icon.png
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -120,7 +120,7 @@ Author: AppleBetas
 Name: TranslucentMessages
 
 Package: applebetas.ios.tweak.watchreboot
-Depiction: https://repo.applebetas.tk/depiction/applebetas.ios.tweak.watchreboot/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.watchreboot/
 Version: 1.0.0-38
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -137,7 +137,7 @@ Author: AppleBetas
 Name: WatchReboot
 
 Package: pw.virulent.execubokeh
-Depiction: https://repo.applebetas.tk/depiction/pw.virulent.execubokeh/
+Depiction: https://repo.applebetas.co/depiction/pw.virulent.execubokeh/
 Version: 1.1~tim-cook
 Architecture: iphoneos-arm
 Maintainer: GotKrypto76
