@@ -1,3 +1,19 @@
+Package: applebetas.ios.theme.lockglyphx.oldsound
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
+Filename: deb/applebetas.ios.theme.lockglyphx.oldsound.deb
+Size: 88958
+MD5sum: 6259d1dc45d08a887b4f9ab961be1aba
+SHA1: f186d71f1f21f6182ff446be2717e17d27b6272e
+SHA256: 879accd0cfca2b36dc78b3268008b57fe9ffa055b7c4fd8cd5e0b0d4677686f6
+Section: Themes (LockGlyphX)
+Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3). This package adds the old sound as a theme option.
+Author: AppleBetas
+Name: Old Apple Pay Sound (for LockGlyphX)
+
 Package: applebetas.ios.tweak.blurrycc10
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.blurrycc10/
 Version: 1.0.1-1
