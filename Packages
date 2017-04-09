@@ -125,10 +125,10 @@ Maintainer: AppleBetas
 Installed-Size: 196
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: deb/applebetas.ios.tweak.succ_1.0.0_iphoneos-arm.deb
-Size: 82866
-MD5sum: 296ef9d05ace92b35599a5687ccdcfbe
-SHA1: a134359cfd80d43954552d4ecc75689fef63d323
-SHA256: 6fab155f63b9863929b7a19988460ef6de3f9b972349e24e7a6ff438f439cd37
+Size: 82824
+MD5sum: 90197a5d8486d481e9f07bb06b4a9da3
+SHA1: ab688eca32e855100a65e3cc2dfc38b411acd781
+SHA256: 27a4f15830225f3f7459c430dbf16f9e3c7184d6211c74c1ddbc793cabf3d065
 Section: Tweaks
 Description: Succ.
 Author: AppleBetas
