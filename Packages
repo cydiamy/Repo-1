@@ -85,18 +85,18 @@ Name: Countdown
 
 Package: applebetas.ios.tweak.ipadup
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.ipadup/
-Version: 1.0.0-1
+Version: 1.0.0-2
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: deb/applebetas.ios.tweak.ipadup_1.0.0-1_iphoneos-arm.deb
-Size: 3482
-MD5sum: 47537534ccb3f206457c94faedd4be20
-SHA1: 127b503a83ba4fb6fa15d339a1b965ec7759ffce
-SHA256: 4980db94e9f1489fe9831e86a47f97d09ad9fd3e64a9827751ef6b918877edf7
-Section: Tweaks
-Description: Change your iPad into thinking it has a phone's form-factor.
+Filename: deb/applebetas.ios.tweak.ipadup_1.0.0-2_iphoneos-arm.deb
+Size: 3546
+MD5sum: 915d635eae225da96249e82852486689
+SHA1: 68c0fb03f606b01fd5db53c22303a8373975f19f
+SHA256: d5cde855dd505ea471ef9a6decbd03d82db07e008347abb2a7a3c37f1b4337be
+Section: Developer Tools
+Description: CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly. Change your iPad into thinking it has a phone's form-factor.
 Author: AppleBetas
 Name: iPadUp
 
