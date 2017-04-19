@@ -119,16 +119,16 @@ Name: NotiTinter
 
 Package: applebetas.ios.tweak.specialfaces
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.specialfaces/
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.specialfaces_1.0_iphoneos-arm.deb
-Size: 7112
-MD5sum: 77ad122b4fc81d78ab8606e8b2efbc0d
-SHA1: f525024baf9c2be7f9eeb93702963132b07cf7a8
-SHA256: ef9eb469ce15ff02b05e606665beffecf49408e9cb0edb04a274c83c73a37f4e
+Filename: deb/applebetas.ios.tweak.specialfaces_1.1_iphoneos-arm.deb
+Size: 7426
+MD5sum: f413a60c7814e49fbfc15cc27ded1078
+SHA1: 8c78d93f5628fa49956f844ab21bd9509483dfd9
+SHA256: 1eae6a400a7073371bc5f0f5b0cc6f8093a9a766cc96bfd7b06c4935116d56da
 Section: Tweaks
 Description: Enable the special watch faces (such as the Nike+ and Hermes faces) on any Apple Watch.
 Author: AppleBetas
