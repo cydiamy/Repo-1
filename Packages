@@ -91,12 +91,12 @@ Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 9.3)
 Filename: deb/applebetas.ios.tweak.devtools.UIDebuggingInformationOverlay_1.0_iphoneos-arm.deb
-Size: 6210
-MD5sum: d3e59c9b634b5af771a924b6765eb59e
-SHA1: b6121ca7c20cf50ed9b5471345ec36dc8836345e
-SHA256: 826db5f2a79a077479249bccaf8e00c73fcbba8dde7ed276d3f5e676a57eaba0
+Size: 6216
+MD5sum: 73e5efdae2cd58f395c96e7712f69945
+SHA1: 188be49eb80acafa4e6641f12f9272b398337702
+SHA256: 8d8a76cff62539061dc9b11e94a0dce4cfdf0e209101487690cbeafc881f0a0c
 Section: Developer Tools
-Description: CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly. Enable Apple's private UIDebuggingInformationOverlay in all apps. Toggle it with a double tap on the status bar.
+Description: CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly. Enable Apple's private UIDebuggingInformationOverlay in all apps. Toggle it with a two-fingered tap on the status bar.
 Author: AppleBetas
 Name: UIDebuggingInformationOverlay
 
