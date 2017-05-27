@@ -1,14 +1,14 @@
 Package: applebetas.ios.theme.lockglyphx.oldsound
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
-Filename: deb/applebetas.ios.theme.lockglyphx.oldsound.deb
-Size: 88958
-MD5sum: 6259d1dc45d08a887b4f9ab961be1aba
-SHA1: f186d71f1f21f6182ff446be2717e17d27b6272e
-SHA256: 879accd0cfca2b36dc78b3268008b57fe9ffa055b7c4fd8cd5e0b0d4677686f6
+Filename: deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
+Size: 88126
+MD5sum: 33a2b456181b5b5a964d0678bb653095
+SHA1: 53c2f7e5917262a21d3111490c8abd590d721a45
+SHA256: 7d53385e72a53a965f5206118862ff9f1e75fc529e3b6c91b9365638476103cd
 Section: Themes (LockGlyphX)
 Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3). This package adds the old sound as a theme option.
 Author: AppleBetas
@@ -116,6 +116,23 @@ Section: Tweaks
 Description: Tint the iOS 10 notifications with the prominent colour in the app's icon! (This tweak contains the ColorCube library, which is under the MIT license. You can find a copy of that at https://github.com/pixelogik/ColorCube/blob/master/LICENSE)
 Author: AppleBetas
 Name: NotiTinter
+
+Package: applebetas.ios.tweak.shinylocklabel
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.shinylocklabel/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.shinylocklabel_1.0_iphoneos-arm.deb
+Size: 10832
+MD5sum: 43049e9b2b063b4c753e313458ac93fc
+SHA1: 07c432541a4e4f8f9b78a571a32b651074d4fb1d
+SHA256: 8522c24baa84774df41fd2edeee8e73b7374403cb4e7108d9abff435b0b2efb9
+Section: Tweaks
+Description: Add the horizontal shining gradient animation back to the "Press home to unlock" text in iOS 10.
+Author: AppleBetas
+Name: ShinyLockLabel
 
 Package: applebetas.ios.tweak.specialfaces
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.specialfaces/
