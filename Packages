@@ -83,17 +83,18 @@ Description: Replace your Lock Screen's "Press home to unlock" text with a count
 Author: AppleBetas
 Name: Countdown
 
-Package: applebetas.ios.tweak.devtools.UIDebuggingInformationOverlay
+Package: applebetas.ios.tweak.devtools.uidebugginginformationoverlay
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.uidebugginginformationoverlay/
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 9.3)
 Filename: deb/applebetas.ios.tweak.devtools.UIDebuggingInformationOverlay_1.0_iphoneos-arm.deb
-Size: 6204
-MD5sum: 42b2ca60b102dd8ff4bbf356d0fb4b53
-SHA1: e675087d332e8190dddc5938f0f532a5dec13e26
-SHA256: b67f7d7d1558f9c7f3cdc1f29b3dac5538933f546e6fae048cbc20233a6ecb45
+Size: 6210
+MD5sum: d3e59c9b634b5af771a924b6765eb59e
+SHA1: b6121ca7c20cf50ed9b5471345ec36dc8836345e
+SHA256: 826db5f2a79a077479249bccaf8e00c73fcbba8dde7ed276d3f5e676a57eaba0
 Section: Developer Tools
 Description: CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly. Enable Apple's private UIDebuggingInformationOverlay in all apps. Toggle it with a double tap on the status bar.
 Author: AppleBetas
