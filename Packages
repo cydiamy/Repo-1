@@ -83,6 +83,23 @@ Description: Replace your Lock Screen's "Press home to unlock" text with a count
 Author: AppleBetas
 Name: Countdown
 
+Package: applebetas.ios.tweak.darkdock
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.darkdock/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.darkdock_1.0_iphoneos-arm.deb
+Size: 8876
+MD5sum: a7cd603412f416c95ca9de391c5c9b31
+SHA1: e142506f7731723b2af4b1a68a01b6d77648386c
+SHA256: 8161c05a1712d40b5bf5a18c72be68a238aa84b21b386df17a14c47fb2204543
+Section: Tweaks
+Description: A dark dock resembling that of OS X (macOS) Yosemite.
+Author: AppleBetas
+Name: DarkDock
+
 Package: applebetas.ios.tweak.devtools.uidebugginginformationoverlay
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.uidebugginginformationoverlay/
 Version: 1.0.1
