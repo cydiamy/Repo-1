@@ -239,17 +239,17 @@ Name: WatchReboot
 
 Package: co.dynastic.ios.tweak.melody
 Depiction: https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/
-Version: 1.0-Beta-2
+Version: 1.0-Beta-2.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 784
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: com.hidan.musicmorecolumns, com.thecomputerwhisperer.MyMusicPlus
-Filename: deb/co.dynastic.ios.tweak.melody_1.0-Beta-2_iphoneos-arm.deb
-Size: 229380
-MD5sum: 68e0e418109cf0f86275ffd0ffb4affd
-SHA1: d2ebe49fd10fd9e8cf22212e1e7cd6b80e0d0a28
-SHA256: 43d41bf1869f9bef499ea0cf85ae9781579fcd4102bcf107474d5d619d7d522d
+Filename: deb/co.dynastic.ios.tweak.melody_1.0-Beta-2.1_iphoneos-arm.deb
+Size: 232354
+MD5sum: 572895c467752b5cddcd54adcf6a63a3
+SHA1: d593d399ad408438b304f431756e194f9f007610
+SHA256: 1caf409323b08caa115fa4231a619d84a7b2a84502473d4690ab7c3bf8ea3023
 Section: Tweaks
 Description: Bring back the look of the iOS 9 Music app.
 Author: AppleBetas
