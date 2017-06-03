@@ -237,6 +237,24 @@ Description: Quickly reboot or ping your Apple Watch from the watch app.
 Author: AppleBetas
 Name: WatchReboot
 
+Package: co.dynastic.ios.tweak.melody
+Depiction: https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/
+Version: 1.0-Beta-2
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 784
+Depends: mobilesubstrate, firmware (>= 10.0)
+Conflicts: com.hidan.musicmorecolumns, com.thecomputerwhisperer.MyMusicPlus
+Filename: deb/co.dynastic.ios.tweak.melody_1.0-Beta-2_iphoneos-arm.deb
+Size: 229380
+MD5sum: 68e0e418109cf0f86275ffd0ffb4affd
+SHA1: d2ebe49fd10fd9e8cf22212e1e7cd6b80e0d0a28
+SHA256: 43d41bf1869f9bef499ea0cf85ae9781579fcd4102bcf107474d5d619d7d522d
+Section: Tweaks
+Description: Bring back the look of the iOS 9 Music app.
+Author: AppleBetas
+Name: Melody Beta
+
 Package: pw.virulent.execubokeh
 Depiction: https://repo.applebetas.co/depiction/pw.virulent.execubokeh/
 Version: 1.1~tim-cook
