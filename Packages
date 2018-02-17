@@ -100,6 +100,21 @@ Description: A dark dock resembling that of OS X (macOS) Yosemite.
 Author: AppleBetas
 Name: DarkDock
 
+Package: applebetas.ios.tweak.devtools.com.ittybittyapps.RevealServer
+Version: 13
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/applebetas.ios.tweak.devtools.com.ittybittyapps.revealserver_13_iphoneos-arm.deb
+Size: 1825268
+MD5sum: e84a60c718b48d935dcb61be108d3d44
+SHA1: b4e06290ba12b4be276ef082d8ffec604fd8f1e1
+SHA256: 80996b430260d677c423fb21c27c7e0a546ea5016f37f49483a553ba1447acc0
+Section: Developer Tools
+Description: Install RevealServer to inspect any application's view hierarchy with Reveal (revealapp.com). Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet.
+Author: Itty Bitty Apps
+Name: RevealServer
+
 Package: applebetas.ios.tweak.devtools.flexgesture
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.flexgesture/
 Version: 1.0
