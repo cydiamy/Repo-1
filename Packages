@@ -101,49 +101,49 @@ Author: AppleBetas
 Name: DarkDock
 
 Package: applebetas.ios.tweak.devtools.com.ittybittyapps.RevealServer
-Version: 13
+Version: 13-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.devtools.com.ittybittyapps.revealserver_13_iphoneos-arm.deb
-Size: 1825268
-MD5sum: e84a60c718b48d935dcb61be108d3d44
-SHA1: b4e06290ba12b4be276ef082d8ffec604fd8f1e1
-SHA256: 80996b430260d677c423fb21c27c7e0a546ea5016f37f49483a553ba1447acc0
-Section: Developer Tools
-Description: Install RevealServer to inspect any application's view hierarchy with Reveal (revealapp.com). Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet.
+Filename: deb/applebetas.ios.tweak.devtools.com.ittybittyapps.revealserver_13-1_iphoneos-arm.deb
+Size: 1825364
+MD5sum: 2703654fc1855f77868b1e6b38428c2e
+SHA1: 3de42ed318f8226f94ce2c5dcc487ca28afb15b6
+SHA256: 4ae2dfdd862ef9032fa4f99d33a4d1cb3f2a472c0754e0e1d392047ca1e7cce6
+Section: Development
+Description: Install RevealServer to inspect any application's view hierarchy with Reveal (revealapp.com). Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet. Because of this, you should not use it on unsecured Wi-Fi networks, as it will expose every app's view hierarchy to any potential malicious actors on the same network running Reveal.
 Author: Itty Bitty Apps
 Name: RevealServer
 
 Package: applebetas.ios.tweak.devtools.flexgesture
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.flexgesture/
-Version: 1.0.1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, applebetas.ios.tweak.devtools.flipboard.flex, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.devtools.flexgesture_1.0.1_iphoneos-arm.deb
-Size: 4078
-MD5sum: 3038011929a785d2cccd4e4d368b1708
-SHA1: e409c040565c4af88113444a4402f6c237f2879f
-SHA256: 985e78a0c9048e8409c0d66db29f59dc8f13d5cdfb8a7287c8016b78b9a7f1fd
-Section: Developer Tools
+Filename: deb/applebetas.ios.tweak.devtools.flexgesture_1.0.1-1_iphoneos-arm.deb
+Size: 4084
+MD5sum: d987a77e0a696cf41120584abacde943
+SHA1: 1f6d50441b86912bcf45a30232d19617597f93f4
+SHA256: 613a07686ede29f8058a83362a3fa546ab6741491743abd0dd92d65b65af4a8b
+Section: Development
 Description: Tired of all the FLEX injector tweaks failing to work eventually? Just install this package alongside FLEX itself, and use a four-finger tap to activate it for the frontmost application.
 Author: AppleBetas
 Name: FLEXGesture
 
 Package: applebetas.ios.tweak.devtools.flipboard.flex
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.flipboard.flex/
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.devtools.flipboard.flex_1.0_iphoneos-arm.deb
+Filename: deb/applebetas.ios.tweak.devtools.flipboard.flex_1.0-1_iphoneos-arm.deb
 Size: 793840
-MD5sum: c53de2a82ed9f52427077a4f3e29b254
-SHA1: 750fad257b4bab771755e918295d18599d3bf7de
-SHA256: 020750248e7de80c339e4c54317e4156d47d1774e2864b3ee5a82534ae068877
-Section: Developer Tools
+MD5sum: cbdd081fbc29342c000196dcd36234af
+SHA1: c4999b76501c087b10da1174d9a5ff9914c8e150
+SHA256: 781feec94e27086f07ecc094129e1df35eae9d787f593106c21ca4f17ea6f2a9
+Section: Development
 Description: An in-app debugging and exploration tool for iOS. Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet.
 Author: Flipboard
 Name: FLEX
@@ -167,20 +167,20 @@ Name: UIDebuggingInformationOverlay
 
 Package: applebetas.ios.tweak.ipadup
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.ipadup/
-Version: 1.0.0-2
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: deb/applebetas.ios.tweak.ipadup_1.0.0-2_iphoneos-arm.deb
-Size: 3546
-MD5sum: 915d635eae225da96249e82852486689
-SHA1: 68c0fb03f606b01fd5db53c22303a8373975f19f
-SHA256: d5cde855dd505ea471ef9a6decbd03d82db07e008347abb2a7a3c37f1b4337be
-Section: Developer Tools
-Description: CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly. Change your iPad into thinking it has a phone's form-factor.
+Filename: deb/applebetas.ios.tweak.ipadup_1.1-1_iphoneos-arm.deb
+Size: 2672
+MD5sum: c773659416490d1d32afb113c68f7152
+SHA1: 172d9a26069c8707d4dd25e9808585dd676522ef
+SHA256: 8b3f09179fb6525ca66479bcb0b512ed4e469bed6fe015c87203783118fc5072
+Section: Development
+Description: Swap your iOS device's user interface idiom (iPhones will act like iPads and vice versa). CAUTION: This is a developer tool, and has the capacity to make things act unexpectedly.
 Author: AppleBetas
-Name: iPadUp
+Name: UIIdiomSwap
 
 Package: applebetas.ios.tweak.notitinter
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.notitinter/
