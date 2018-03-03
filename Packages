@@ -117,16 +117,16 @@ Name: RevealServer
 
 Package: applebetas.ios.tweak.devtools.flexgesture
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.devtools.flexgesture/
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Installed-Size: 120
 Depends: mobilesubstrate, applebetas.ios.tweak.devtools.flipboard.flex, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.devtools.flexgesture_1.0_iphoneos-arm.deb
-Size: 4010
-MD5sum: 8fe4730b410cf9a17153c3d597c10fe9
-SHA1: 5c2a84c60f68d9c53e39883139b8abd94eafc937
-SHA256: 84901adfffa2b187497a33d2cb3fb002ad4084cbe8dcf316d9298ee5ed098716
+Filename: deb/applebetas.ios.tweak.devtools.flexgesture_1.0.1_iphoneos-arm.deb
+Size: 4078
+MD5sum: 3038011929a785d2cccd4e4d368b1708
+SHA1: e409c040565c4af88113444a4402f6c237f2879f
+SHA256: 985e78a0c9048e8409c0d66db29f59dc8f13d5cdfb8a7287c8016b78b9a7f1fd
 Section: Developer Tools
 Description: Tired of all the FLEX injector tweaks failing to work eventually? Just install this package alongside FLEX itself, and use a four-finger tap to activate it for the frontmost application.
 Author: AppleBetas
