@@ -101,15 +101,15 @@ Author: AppleBetas
 Name: DarkDock
 
 Package: applebetas.ios.tweak.devtools.com.ittybittyapps.RevealServer
-Version: 13-1
+Version: 14
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: deb/applebetas.ios.tweak.devtools.com.ittybittyapps.revealserver_13-1_iphoneos-arm.deb
-Size: 1825364
-MD5sum: 2703654fc1855f77868b1e6b38428c2e
-SHA1: 3de42ed318f8226f94ce2c5dcc487ca28afb15b6
-SHA256: 4ae2dfdd862ef9032fa4f99d33a4d1cb3f2a472c0754e0e1d392047ca1e7cce6
+Filename: deb/applebetas.ios.tweak.devtools.com.ittybittyapps.revealserver_14_iphoneos-arm.deb
+Size: 1901882
+MD5sum: f5bda304adbaec1b29f7b83269c1d6c7
+SHA1: c770d5f9e0639908d368bdd213dcc2b1eea7afcb
+SHA256: 3bf559bb88bb7826d9ee681a8d31da5a99fd7a26787a9bda1af66f4548342783
 Section: Development
 Description: Install RevealServer to inspect any application's view hierarchy with Reveal (revealapp.com). Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet. Because of this, you should not use it on unsecured Wi-Fi networks, as it will expose every app's view hierarchy to any potential malicious actors on the same network running Reveal.
 Author: Itty Bitty Apps
