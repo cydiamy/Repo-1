@@ -14,6 +14,23 @@ Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3)
 Author: AppleBetas
 Name: Old Apple Pay Sound (for LockGlyphX)
 
+Package: applebetas.ios.tweak.biocancel
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.biocancel/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/applebetas.ios.tweak.biocancel_1.0_iphoneos-arm.deb
+Size: 2234
+MD5sum: 073e307022fccc01ce1cad52a3743ece
+SHA1: 9460b719969e7fbceffc11fa8197b57187aef930
+SHA256: 976f1d6d5c334bef180b4f0f345442f52491e8fd4ca6d170e435ef38dff253fd
+Section: Tweaks
+Description: Shows the "Cancel" and "Emergency Call" when on the "Face ID" screen.
+Author: AppleBetas
+Name: BioCancel
+
 Package: applebetas.ios.tweak.blurrycc10
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.blurrycc10/
 Version: 1.0.1-1
@@ -148,6 +165,23 @@ Description: An in-app debugging and exploration tool for iOS. Use at your own r
 Author: Flipboard
 Name: FLEX
 
+Package: applebetas.ios.tweak.doubletaptowake
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.doubletaptowake/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/applebetas.ios.tweak.doubletaptowake_1.0_iphoneos-arm.deb
+Size: 4012
+MD5sum: 6bde15f2d1ff439cbda92ef73e4aaf73
+SHA1: 544ce58939485713c9cf36a791981aacc8683a51
+SHA256: 27ff42383e8ffea6d1dd2d5d9e1353127d0a1d69470f05997f4bc5fe87a43bed
+Section: Tweaks
+Description: Waking your phone too often? Double Tap to Wake, rather than Tap to Wake, on iPhone X.
+Author: AppleBetas
+Name: DoubleTapToWake
+
 Package: applebetas.ios.tweak.ipadup
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.ipadup/
 Version: 1.1-1
@@ -181,6 +215,23 @@ Section: Tweaks
 Description: Tint the iOS 10 notifications with the prominent colour in the app's icon! (This tweak contains the ColorCube library, which is under the MIT license. You can find a copy of that at https://github.com/pixelogik/ColorCube/blob/master/LICENSE)
 Author: AppleBetas
 Name: NotiTinter
+
+Package: applebetas.ios.tweak.roundlockscreen
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.roundlockscreen/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/applebetas.ios.tweak.roundlockscreen_1.0_iphoneos-arm.deb
+Size: 4712
+MD5sum: 1ee2caf9c72320b0afc3c8c35428b2db
+SHA1: 3757fd75b11f5f6fa1879db4cc6b004ef1f48072
+SHA256: 040216b43ceb42fa58e02bfb62d4c5f2c60049ad8735ee7b3fa68b12491deaee
+Section: Tweaks
+Description: iPhone X's display has rounded corners. The Lock Screen should be too.
+Author: AppleBetas
+Name: RoundLockScreen
 
 Package: applebetas.ios.tweak.shinylocklabel
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.shinylocklabel/
@@ -232,6 +283,23 @@ Section: Tweaks
 Description: Succ.
 Author: AppleBetas
 Name: Succ
+
+Package: applebetas.ios.tweak.time11
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.time11/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/applebetas.ios.tweak.time11_1.0_iphoneos-arm.deb
+Size: 2704
+MD5sum: 19919c22ae8a438e2f5252e0462d8eda
+SHA1: d36cc7d72af2cec608d4601185f8c89a7b44a690
+SHA256: 58533d1c0f978da788107955a98556852ccb86ccf237f125512b81a031758113
+Section: Tweaks
+Description: Make the time slightly bolder, and somehow drastically more appealing.
+Author: AppleBetas
+Name: TimeXI
 
 Package: applebetas.ios.tweak.translucentmessages
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.translucentmessages/
