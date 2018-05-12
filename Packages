@@ -224,12 +224,12 @@ Maintainer: AppleBetas
 Installed-Size: 76
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: deb/applebetas.ios.tweak.roundlockscreen_1.0_iphoneos-arm.deb
-Size: 4712
-MD5sum: 1ee2caf9c72320b0afc3c8c35428b2db
-SHA1: 3757fd75b11f5f6fa1879db4cc6b004ef1f48072
-SHA256: 040216b43ceb42fa58e02bfb62d4c5f2c60049ad8735ee7b3fa68b12491deaee
+Size: 4710
+MD5sum: d7fecd0d543601d2e4ebc60a34b2084e
+SHA1: faead298865262fa51d453d2ec52c4fcc620fa27
+SHA256: 59b95bad308b7cddadac16817f62e9f4655b809c734854da0499177d0bf9d802
 Section: Tweaks
-Description: iPhone X's display has rounded corners. The Lock Screen should be too.
+Description: iPhone X's display has rounded corners. The Lock Screen should too.
 Author: AppleBetas
 Name: RoundLockScreen
 

@@ -13,7 +13,11 @@ nav a:last-child {
 
 img.screenshot-image {
   width: 100%;
-  max-width:375px;
+  max-width: 375px;
   display: block;
   margin: 0 auto;
+}
+
+img.screenshot-image.mini {
+  max-width: 150px;
 }
