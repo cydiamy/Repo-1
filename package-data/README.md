@@ -12,6 +12,10 @@ You're in the `package-data` folder right now, where the script gets all its inf
 
 You can specify a rich HTML description for your tweak by creating a `description.html` file in that folder. It is inside a table view cell, but doesn't have a `<p>` added to it. The HTML is injected right inside the `<li>`.
 
+### Custom Depiction Page HTML
+
+You can add-on custom depiction HTML for your tweak by creating a `addon.html` file in that folder. It is injected below the description cell, outside of any section.
+
 ### Package icon
 
 In the same folder, if you leave a file called `icon.png`, the script will detect this and automatically add this to your repo's package file, making it show in Cydia.
@@ -19,6 +23,10 @@ In the same folder, if you leave a file called `icon.png`, the script will detec
 ### Changelog
 
 You can create a `changelogs` folder in your package's data folder, and fill it with `.txt` files for each version. If your package version is the same as one of the files, it'll be shown on the package depiction page as well for a quick glance. (Example: `package-data/applebetas.ios.tweak.notitinter/changelogs/1.0.0-8.txt`).
+
+### Known Issues
+
+Create an `issues.txt` file in that folder, which will be rendered with a bullet point for each new line.
 
 ### Screenshots
 
