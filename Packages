@@ -319,6 +319,23 @@ Description: Adds a beautiful blurred effect to your messages app and more, lett
 Author: AppleBetas
 Name: TranslucentMessages
 
+Package: applebetas.ios.tweak.translucentwallet
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.translucentwallet/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: deb/applebetas.ios.tweak.translucentwallet_1.0_iphoneos-arm.deb
+Size: 20734
+MD5sum: 7300eb3ae3adacf2761add5049bb1ada
+SHA1: c93ffc2a1810c705dfe1da0ed579f44ce7ee138b
+SHA256: 216ace31f7efa59b9ba9b048ec990249a2573408b131a44c954382da2b88cd5e
+Section: Tweaks
+Description: iOS 11 makes the Wallet app white. This brings back the old translucent wallet.
+Author: AppleBetas
+Name: TranslucentWallet
+
 Package: applebetas.ios.tweak.watchreboot
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.watchreboot/
 Version: 1.0.0-38
