@@ -353,6 +353,23 @@ Description: Quickly reboot or ping your Apple Watch from the watch app.
 Author: AppleBetas
 Name: WatchReboot
 
+Package: co.dynastic.ios.tweak.indt
+Depiction: https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.indt/
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Installed-Size: 92
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: deb/co.dynastic.ios.tweak.indt_1.0_iphoneos-arm.deb
+Size: 10626
+MD5sum: 29ee80bf5f444028c9f5bb7ea6815782
+SHA1: 0eddc45709226aa5fbdaec9b77dace08f9524088
+SHA256: ab6173153fab32d6466faf9662ff5b15b5ad26429a105a0e41f72be61bbcf35a
+Section: Tweaks
+Description: Send test notifications from a Mac
+Author: Dynastic Development
+Name: iNDT
+
 Package: co.dynastic.ios.tweak.melody
 Depiction: https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/
 Version: 1.0-Beta-2.1
